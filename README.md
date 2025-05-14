@@ -25,8 +25,8 @@ Une API REST complète pour gérer une liste de tâches (Todo List), développé
 
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/votre-username/todo-api.git
-cd todo-api
+git clone https://github.com/billy-ndihok/todo-backend.git
+cd todo-backend
 ```
 
 2. Installez les dépendances :
