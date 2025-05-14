@@ -11,12 +11,8 @@ yarn-error.log*
 data/todo.db
 #coverage
 coverage/
-# Environnement
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+
+
 
 # Répertoires de build (output)
 dist/
