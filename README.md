@@ -54,8 +54,11 @@ L'application utilise Docker pour isoler la base de données SQLite :
 ```
 
 ## Démarrage de l'application
-
-4. Démarrez l'application en mode développement :
+Créer le dossier data
+```bash
+mkdir data
+```
+Démarrez l'application en mode développement :
 ```bash
 npm run dev
 ```
