@@ -38,8 +38,11 @@ npm install
 L'API sera disponible à l'adresse `http://localhost:3000` et la documentation Swagger à `http://localhost:3000/api-docs`.
 
 ## Démarrage de l'application
-
-4. Démarrez l'application en mode développement :
+Créer le dossier data
+```bash
+mkdir data
+```
+Démarrez l'application en mode développement :
 ```bash
 npm run dev
 ```
